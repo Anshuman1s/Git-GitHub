@@ -7,3 +7,9 @@ if it will show current status in Master change it to main
 step 3:- git commit -m "Update"
 
 step 4:-git push origin main
+**/Important/**
+After writting this we git push -u origin main we can use only 
+command
+
+
+** git push **
