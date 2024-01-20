@@ -1,0 +1,5 @@
+Configure git
+
+git config --add user.name "Anshuman Shukla"
+git config --global ( it can also be used);
+git config --add user.gmai "anshumanshukla.12as@gmail.com"

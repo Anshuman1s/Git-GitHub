@@ -1,0 +1,10 @@
+Clone -> Cloning the GitHub repo to you own Computer 
+
+Command 
+
+
+**git clone <-link->
+
+Example 
+
+git clone https://github.com/Anshuman1s/Lepses-LPU.git

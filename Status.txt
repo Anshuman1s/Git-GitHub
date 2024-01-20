@@ -1,0 +1,12 @@
+Status ==> Display The current status of the code
+
+#Command 
+**git status
+
+
+File Status LifeCycle 
+1.Untracked
+2.unmodified
+3.modified
+4.staged
+

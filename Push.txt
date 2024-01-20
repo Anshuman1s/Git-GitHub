@@ -1,0 +1,6 @@
+Push-> Upload  local repo content to remote repo
+
+
+** Command
+
+**git push origin main

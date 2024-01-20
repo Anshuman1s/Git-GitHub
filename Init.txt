@@ -1,0 +1,14 @@
+init Used to create a new git repo 
+
+Commad 
+
+**git init
+
+**git remote add origin <-link->
+*git remote -v (to verify remote)
+
+*git branch (to check branch)
+
+*git branch _m main (to rename branch)
+
+*git push origin main

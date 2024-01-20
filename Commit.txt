@@ -1,0 +1,18 @@
+Commit => Commit is two step Process firstly we have to add and after that we have to push all the changes
+
+after modified (add)  this is called as staged
+
+add ->> adds new or chnaged files in your working directory to Git staging area 
+
+Command 
+** git add <-file Name ->
+
+OR
+
+** git add . <-- this dot staged all the existing file
+
+
+Commit -> itis the record of change
+
+**git commint -m "Some message"
+
