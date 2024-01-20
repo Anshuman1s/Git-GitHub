@@ -5,5 +5,5 @@ Command
 
 **git clone <-link->
 
-**Example **
+**Example**
 git clone https://github.com/Anshuman1s/Lepses-LPU.git
