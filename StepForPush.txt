@@ -1,0 +1,9 @@
+/*How to push all the file to repo */
+Step 1:- **git remote add origin <-link->
+step 2:- verify your repo now use this this command git remote -v
+if it will show current status in Master change it to main 
+**Example**
+** git branch -M main **
+step 3:- git commit -m "Update"
+
+step 4:-git push origin main
