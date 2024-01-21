@@ -1,0 +1,10 @@
+Merge conflict 
+
+An event that takes place when Git is unable to automatically resolve differences in code betwwen two commits.
+
+If we have two branch and both have different name and we make some changes in our first brach as well as second branch then it will produce the conflicting between it
+
+**git merge feature will produce conflict
+
+ 
+

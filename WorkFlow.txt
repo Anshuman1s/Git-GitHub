@@ -1,0 +1,3 @@
+GITHUB => Code change -> "Commit"
+
+Local Git => Code Change => add (Stage a change) => "Commit" (Commit change) => push

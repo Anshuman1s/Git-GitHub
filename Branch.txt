@@ -1,0 +1,14 @@
+Git branches are effectively a pointer to a snapshot of your changes. When you want to add a new feature or fix a bug—no matter how big or how small—you spawn a new branch to encapsulate your changes. This makes it harder for unstable code to get merged into the main code base, and it gives you the chance to clean up your future's history before merging it into the main branch.
+
+
+**Switch to another Branch**
+
+git checkout -b <Branch Name>
+
+example:- git checkout -c feature
+
+**Deleting the Branch**
+
+git branch -d <branch_name>
+
+example:- git branch -d feature

@@ -1,0 +1,8 @@
+git diff <-branch name-> => (to compare commit, branch,files & more)
+
+git merge <-branch name-> (to merge 2 branches)
+
+OR Create Pull Request
+
+
+
